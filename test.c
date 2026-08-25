@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-	printf("this is test\n);
+	printf("aaaa我修改了呀呼\n");
+	printf("this is test\n");
 	return 0;
 }
